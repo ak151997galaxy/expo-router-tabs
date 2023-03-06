@@ -5,6 +5,12 @@
       "bundler": "metro"
     },
     "name": "my-tabs",
-    "slug": "my-tabs"
+    "slug": "my-tabs",
+    "android": {
+      "package": "com.anonymous.mytabs"
+    },
+    "ios": {
+      "bundleIdentifier": "com.anonymous.mytabs"
+    }
   }
 }
